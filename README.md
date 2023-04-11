@@ -33,6 +33,6 @@ Requirements: Famicom System, F1 Racer. cartridge, CRT television, 27C256 EEPROM
 
 Elevator pitch: Just the road from a racing game. 
 
-Note: This repo is a complete mess! So sorry. Not 100% sure this is the correct final one, it might be lost, and also not 100% the PRG is correct. 
+Note: This repo is a complete mess! So sorry. Not 100% sure this is the correct final emu file, and the source might have a timing bug, but the PRG is correct tho :-)
 
 "Being lazy is also a form of labor" - CMA
